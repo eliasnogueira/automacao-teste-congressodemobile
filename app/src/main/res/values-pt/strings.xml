@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FasTip</string>
+    <string name="billAmount">Total da conta</string>
+    <string name="calculateTip">Calcular</string>
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="percentSymbol">Percentual</string>
+    <string name="saveSettings">Salvar conf.</string>
+    <string name="tipAmount">Total gorjeta</string>
+    <string name="tipPercentage">% gorjeta</string>
+    <string name="title_activity_settings">Configurações</string>
+    <string name="totalAmount">Valor total</string>
+</resources>
